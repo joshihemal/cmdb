@@ -2,7 +2,7 @@ import React from "react";
 import "./Card.css";
 
 const Card = ({ movie }: any) => {
-  return <div>Card</div>;
+  return <div>Cards</div>;
 };
 
 export default Card;
